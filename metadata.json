@@ -1,0 +1,21 @@
+{
+  "name": "BeBold Coin",
+  "symbol": "BBCOIN",
+  "description": "Each Token has $1 value",
+  "image": "https://raw.githubusercontent.com/romanman09/ppbb/main/BeBold.jpg",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "1 USD"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/romanman09/ppbb/main/BeBold.jpg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
