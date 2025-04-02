@@ -3,5 +3,5 @@
   "symbol": "BBCOIN",
   "image": "https://raw.githubusercontent.com/romanman09/ppbb/main/BeBold.jpg",
   "description": "Each coin equals 1 USD value",
-  "decimals": 2  // Must match token decimals!
+  "decimals": 2
 }
