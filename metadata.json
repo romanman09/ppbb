@@ -1,7 +1,7 @@
 {
   "name": "BeBold Coin",
   "symbol": "BBCOIN",
-  "description": "Each coin equals 1 USD value",
   "image": "https://raw.githubusercontent.com/romanman09/ppbb/main/BeBold.jpg",
-  "decimals": 0
+  "description": "Each coin equals 1 USD value",
+  "decimals": 2  // Must match token decimals!
 }
