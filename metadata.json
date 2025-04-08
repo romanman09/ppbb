@@ -1,7 +1,8 @@
 {
-  "name": "BeBold Coin",
-  "symbol": "BBCOIN",
-  "image": "https://raw.githubusercontent.com/romanman09/ppbb/main/BeBold.jpg",
-  "description": "Each coin equals 1 USD value",
-  "decimals": 2
+    "name": "Glory Pie",
+    "symbol": "GPIE",
+    "description": "Glorify the Pie",
+    "image": "https://raw.githubusercontent.com/romanman09/ppbb/main/gpie.png",
+    "decimals": 9,
+    "twitter": "https://x.com/pabbley/status/1653885897366970368"
 }
